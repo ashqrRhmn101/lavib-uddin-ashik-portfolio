@@ -1,0 +1,57 @@
+# Md. Lavib Uddin Ashik
+
+## Cybersecurity Enthusiast | Ethical Hacker | Bug Bounty Hunter
+
+Welcome to the official portfolio repository of **Md. Lavib Uddin Ashik**, a passionate cybersecurity enthusiast from Bangladesh.
+
+---
+
+## 👨‍💻 About Me
+
+I am Md. Lavib Uddin Ashik, an aspiring ethical hacker with a strong interest in cybersecurity, web application security, and bug bounty hunting. I actively explore vulnerabilities and work on improving my skills in penetration testing and security analysis.
+
+My goal is to build secure digital systems and contribute to the cybersecurity community by identifying and responsibly disclosing security issues.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- Web Security Testing  
+- Vulnerability Assessment  
+- Bug Bounty Hunting  
+- XSS (Cross-Site Scripting)  
+- SQL Injection  
+- Reconnaissance & Information Gathering  
+
+---
+
+## 🚀 Projects
+
+- 🔍 Vulnerability Scanner Tool  
+- 🛡️ Web Security Testing Labs  
+- 🐞 Bug Bounty Research  
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio Website: https://your-website-link.com  
+- LinkedIn: https://linkedin.com/in/your-username  
+- Medium: https://medium.com/@your-username  
+
+---
+
+## 📌 Keywords
+
+Md. Lavib Uddin Ashik, Cybersecurity Expert Bangladesh, Ethical Hacker, Bug Bounty Hunter, Web Security Researcher
+
+---
+
+## 📢 About This Repository
+
+This repository represents the personal portfolio of Md. Lavib Uddin Ashik. It highlights skills, projects, and ongoing work in cybersecurity and ethical hacking.
+
+---
+
+**Written by Md. Lavib Uddin Ashik**  
+Cybersecurity Enthusiast | Ethical Hacker
