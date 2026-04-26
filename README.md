@@ -35,6 +35,7 @@ My goal is to build secure digital systems and contribute to the cybersecurity c
 
 ## 🌐 Connect With Me
 
+- Portfolio Website: https://lavib-uddin-ashik.netlify.app/
 - Portfolio Website: https://ashqrrhmn101.github.io/lavib-uddin-ashik-portfolio/  
 - LinkedIn: https://www.linkedin.com/in/lavib-uddin-ashik/  
 - Medium: https://medium.com/@lavibuddin.ashik
