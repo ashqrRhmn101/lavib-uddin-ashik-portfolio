@@ -8,7 +8,7 @@ Welcome to the official portfolio repository of **Md. Lavib Uddin Ashik**, a pas
 
 ## 👨‍💻 About Me
 
-I am Md. Lavib Uddin Ashik, an aspiring ethical hacker with a strong interest in cybersecurity, web application security, and bug bounty hunting. I actively explore vulnerabilities and work on improving my skills in penetration testing and security analysis.
+This is Lavib Uddin Ashik, an aspiring ethical hacker with a strong interest in cybersecurity, web application security, and bug bounty hunting. I actively explore vulnerabilities and work on improving my skills in penetration testing and security analysis.
 
 My goal is to build secure digital systems and contribute to the cybersecurity community by identifying and responsibly disclosing security issues.
 
@@ -35,9 +35,9 @@ My goal is to build secure digital systems and contribute to the cybersecurity c
 
 ## 🌐 Connect With Me
 
-- Portfolio Website: https://your-website-link.com  
-- LinkedIn: https://linkedin.com/in/your-username  
-- Medium: https://medium.com/@your-username  
+- Portfolio Website: https://ashqrrhmn101.github.io/lavib-uddin-ashik-portfolio/  
+- LinkedIn: https://www.linkedin.com/in/lavib-uddin-ashik/  
+- Medium: https://medium.com/@lavibuddin.ashik
 
 ---
 
